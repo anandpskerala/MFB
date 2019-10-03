@@ -7,4 +7,4 @@ Pillow
 hachoir
 numpy
 beautifulsoup4
-git+git://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+ffmpeg
